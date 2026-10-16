@@ -2,7 +2,7 @@
 
 Développeur back-end **Node.js / TypeScript**. Je construis des API, je sécurise des webhooks et j'intègre l'IA dans de vrais outils.
 
-🔎 En recherche d'**alternance Bac+3 Développeur IA** (rentrée janvier à mars 2027), en Île-de-France.
+🔎 En recherche une opportunité de **Développeur IA et Web**, en Île-de-France.
 
 🛠️ Disponible pour des missions freelance d'intégration d'API et d'automatisation.
 
@@ -21,4 +21,4 @@ Développeur back-end **Node.js / TypeScript**. Je construis des API, je sécuri
 - **IA & automatisation :** API Claude, n8n
 - **Front & outils :** React, Next.js, Docker, Git, Vercel
 
-📫 khalyamad.d@gmail.com · [amaddiallo.dev](https://amaddiallo.dev) · [LinkedIn](https://www.linkedin.com/in/amad-khaly-diallo/)
+ khalyamad.d@gmail.com · [amaddiallo.dev](https://amaddiallo.dev) · [LinkedIn](https://www.linkedin.com/in/amad-khaly-diallo/)
